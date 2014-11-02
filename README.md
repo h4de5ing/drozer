@@ -39,7 +39,8 @@ Bug reports, feature requests, comments and questions can be submitted sent to:
 
 Follow the latest drozer news, follow the project on Twitter:
 
-  @mwrdrozer
+  -@mwrdrozer 
+  -http://www.freebuf.com/tools/47248.html
 drozer是一款针对Android系统的安全测试框架。drozer可以帮助Android app和设备变得更安全，其提供了很多Android平台下的渗透测试exploit供你使用和分享。对于远程的exploit，它可以生成shellcode帮助你进行远程设备管理。
 更快的Android安全评估
 drozer可以大大缩减Android安全评估的耗时，通过攻击测试暴露Android APP的漏洞。
